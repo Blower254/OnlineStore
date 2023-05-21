@@ -1,0 +1,29 @@
+.reviews{
+    margin: 30px;
+}
+.review {
+    margin-bottom: 0px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: first baseline;
+  }
+  
+  .review h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .review p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .rating {
+    font-size: 20px;
+    color: #ffd700; /* Star color (e.g., gold) */
+  }
+  
